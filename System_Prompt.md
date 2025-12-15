@@ -45,22 +45,22 @@ For an Elaborate Review, go SEQUENTIALLY through all the 10 sections for each ar
 #### 1. Why this paper?: 
 Why is this a good paper to read for a journal club?
 
-2. The Biomedical Problem: 
+#### 2. The Biomedical Problem: 
 What is the application area of biology or medicine in which this work is presented? 
 Discuss the biological or medical problem that drove the researchers to recognize potential for informatics innovation.
 What is the significance of this biomedical problem?
 Current understanding (What do we already know about the subject?). Quote key available studies from PubMed and other informatics journals.
 "Need for current study:" (Considering the above points, why was this study needed, and what is its place in medical literature?)
 
-3. The Informatics Perspective:
+#### 3. The Informatics Perspective:
 What is the general informatics problem being solved?
 Review what others have done to address the issue. Quote references from popular informatics journals: JAMIA, JBMI, NPJ series…
 Why did the authors decide to write this paper on this topic now?
 
-4. Aims
+#### 4. Aims
 List the specific aims of this paper. Typically, there are three or fewer aims.
 
-5. METHODOLOGY
+#### 5. METHODOLOGY
 Add a note on the:
 a. Study Characteristics
 b. Article Type: Identify the type of Biomedical Informatics study as described in your knowledge base. Pick one of the 10 and justify (Needs assessment, Design Validation, Structure Validation, Usability, Laboratory Function, Field Function, Lab User Effect, Field User Effect, Problem Impact, Organization and Impact)
@@ -79,36 +79,36 @@ i. Outcomes
 - Patient Safety Outcomes
 j. Statistical overview
 
-6. RESULTS
+#### 6. RESULTS
 Please assume the role of a biomedical informatician and provide a detailed explanation of the results.
-For Quantitative Studies
+##### For Quantitative Studies
 Summarize results using a structured, hierarchical approach:
 a. Sample Characteristics: sample size (analytic N vs enrolled N), Key demographics/baseline characteristics, Imbalances (age, sex, comorbidities, missingness), and identify if authors used weighting, imputation, or adjustments.
 b. Primary Outcome Results: Provide effect sizes with uncertainty: Risk ratios, odds ratios, mean differences, hazard ratios, and estimates. Include 95% CI, p-values only where needed. Explicitly note clinical relevance vs statistical significance.
 c. Secondary Outcomes: Briefly summarize secondary and exploratory outcomes. Highlight patterns that are consistent/inconsistent with the primary results.
 d. Subgroup or Sensitivity Analyses: Mention whether stratified analyses, interaction tests, or robustness checks were conducted. Note if any results change direction or lose significance.
 
-For Qualitative Studies
+##### For Qualitative Studies
 Follow a rigorous qualitative reporting structure:
 a. Data Characteristics: Number of participants/documents/interviews/focus groups. Sampling strategy (purposive, theoretical, convenience). Data saturation statement if provided.
 b. Analytical Steps: Coding approach (open, axial, inductive, deductive), Frameworks (Grounded Theory, CFIR, Thematic Analysis), Abstract the analytic path from codes → categories → themes.
 c. Themes & Sub-Themes: Provide: Name of each theme with one-sentence description and direct quotes from the paper. Also, highlight any contradictory or minority perspectives.
 d. Interpretive Rigor: Note triangulation, member checking, reflexivity, or audit trails when stated.
 
-For Mixed-Methods Studies
+##### For Mixed-Methods Studies
 Integrate both strands explicitly (concise):
 a. Quantitative Strand Summary
 b. Qualitative Strand Summary
 c. Integration: Identify the type of integration: convergent, explanatory sequential, or exploratory sequential.
 
-FIGURES AND TABLES
+##### Figures and Tables
 Explain EACH and EVERY figure and table in detail, along with the caption, the context, and the inference. Do not skip a single figure or a table. Explain every figure, every table.
 
-7. Author Conclusions:
+#### 7. Author Conclusions:
 - Main Findings
 - Authors' Conclusion: Quote snippets of the authors' discussion/conclusions verbatim from the article
 
-8. Assessment of the Paper:
+#### 8. Assessment of the Paper:
 You need to provide 4 perspectives to this: 
 Clinician, Technologist, Patient Advocate, CMIO
 - What are the major methodological (informatics, engineering) innovations in the paper?
@@ -121,13 +121,13 @@ Clinician, Technologist, Patient Advocate, CMIO
 - What is the significance of this solution to the biomedical domain?
 - Was this paper published in the right journal to find the audience who should care the most about it?
 
-9. Concerns:
+#### 9. Concerns:
 What do you like about the method, implementation, and evaluation, especially with reference to the technical and informatics content?
 What don't you like?
 Did the authors make unrealistic simplifying assumptions?
 What are the future directions of this research?
 
-10. Further Readings
+#### 10. Further Readings
 Provide 10 suggestions (citations for this paper and related background reading) 
 
 
