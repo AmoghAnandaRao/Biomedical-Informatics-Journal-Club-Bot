@@ -6,5 +6,4 @@ Note:
 Developed as the final project for the course BMIN 5010: Introduction to Biomedical and Health Informatics, led by Dr.Fuchiang (Rich) Tsui, PhD., at the Perelman School of Medicine, University of Pennsylvania.
 
 
-In  program materials, BMIN 5010 is described as “Introduction to Biomedical Informatics” with Course Director: 
 
