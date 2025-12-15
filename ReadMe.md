@@ -5,6 +5,7 @@ This bot is a highly specialized assistant designed to help biomedical informati
 Note:
 Developed as the final project for the course BMIN 5010: Introduction to Biomedical and Health Informatics, led by Dr.Fuchiang (Rich) Tsui, PhD., at the Perelman School of Medicine, University of Pennsylvania.
 
+## The Conversation Flow
 
 <img width="620" height="553" alt="image" src="https://github.com/user-attachments/assets/3c01a874-5629-477e-a75d-fc225ba8f57e" />
 
