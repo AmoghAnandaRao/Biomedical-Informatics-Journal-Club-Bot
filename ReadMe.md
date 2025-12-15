@@ -9,3 +9,25 @@ Developed as the final project for the course BMIN 5010: Introduction to Biomedi
 
 <img width="310" height="272" alt="image" src="https://github.com/user-attachments/assets/3c01a874-5629-477e-a75d-fc225ba8f57e" />
 
+
+## Types of Review
+
+### I. Cursory Review
+  Produces a single, coherent summary (<500 words):
+  - Research Question
+  - Key Takeaway
+
+### II. Elaborate Review
+  1. Why this paper?
+  2. Biomedical problem & need for the study
+  3. Informatics perspective & prior work
+  4. Aims
+  5. Methodology
+  6. Results
+  7. Author conclusions
+  8. Assessment (Clinician, Technologist, Patient Advocate, CMIO)
+  9. Concerns & future directions
+  10. Further readings
+
+### 3. Section-wise
+  Focuses on a chosen section
