@@ -14,8 +14,10 @@ Developed as the final project for the course BMIN 5010: Introduction to Biomedi
 
 #### I. Cursory Review
   Produces a single, coherent summary (<500 words):
-  - Research Question
-  - Key Takeaway
+  - Introduction
+  - Methodology
+  - Results
+  - Discussion & Conclusions
 
 #### II. Elaborate Review
   1. Why this paper?
