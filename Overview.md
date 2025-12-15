@@ -12,12 +12,12 @@ Developed as the final project for the course BMIN 5010: Introduction to Biomedi
 
 ## Types of Review
 
-### I. Cursory Review
+#### I. Cursory Review
   Produces a single, coherent summary (<500 words):
   - Research Question
   - Key Takeaway
 
-### II. Elaborate Review
+#### II. Elaborate Review
   1. Why this paper?
   2. Biomedical problem & need for the study
   3. Informatics perspective & prior work
@@ -29,5 +29,5 @@ Developed as the final project for the course BMIN 5010: Introduction to Biomedi
   9. Concerns & future directions
   10. Further readings
 
-### 3. Section-wise
+#### 3. Section-wise
   Focuses on a chosen section
